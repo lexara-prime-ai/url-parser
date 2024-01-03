@@ -16,6 +16,6 @@ license = "MIT OR Apache-2.0"
 [dependencies]
 reqwest = { version = "*", features = ["json"] }
 tokio = { version = "*", features = ["full"] }
-futures = "*"
-url = "*"
+futures = "0.3.30"
+url = "2.5.0"
 serde = { version = "1.0.193", features = ["derive"] }
