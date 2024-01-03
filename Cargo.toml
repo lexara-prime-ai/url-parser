@@ -1,7 +1,15 @@
 [package]
-name = "api"
+name = "lx-parser"
 version = "0.1.0"
+authors = ["Irfan Ghat"]
 edition = "2021"
+description = "A simple url parser with json serialization"
+homepage = "https://github.com/lexara-prime-ai/url-parser"
+repository = "https://github.com/lexara-prime-ai/url-parser"
+readme = "README.md"
+keywords = ["parser", "web", "http", "api"]
+categories = ["Web programming"]
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
